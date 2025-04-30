@@ -1,8 +1,23 @@
-var x = 5;
-let a = "hello";
-const b = 5;
-console.log(typeof x);
-console.log(typeof a);
-let student = { name: "Ім'я", age: 18, status: "Статус студента ", university: "Університет"};
-console.log(typeof student);
-console.log(student);
+//zavd1-2
+/*
+var a = true
+let b = "hello"
+const c = 7
+console.log(typeof(a), typeof(b), typeof(c));
+*/
+//zavd3-4
+/*
+let student = { name: "", age: 0, status: "yes"};
+let studentmoredata = {name: "", age: 0, status: "yes", university: "krausyatina"};
+*/
+//zavd5-6
+const chislo = 88;
+let h = 8;
+if(true){
+    let h = "zahur"
+    console.log(h)
+}
+chislo = 5;
+console.log(chislo);
+
+
