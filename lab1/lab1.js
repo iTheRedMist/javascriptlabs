@@ -11,6 +11,7 @@ let student = { name: "", age: 0, status: "yes"};
 let studentmoredata = {name: "", age: 0, status: "yes", university: "krausyatina"};
 */
 //zavd5-6
+/*
 const chislo = 88;
 let h = 8;
 if(true){
@@ -19,5 +20,5 @@ if(true){
 }
 chislo = 5;
 console.log(chislo);
-
+*/
 
