@@ -1,6 +1,6 @@
 //zavd1
 /*
-var temperature = 20
+var temperature = 10
 if(temperature<=0){
     console.log("Дуже холодно")
 } else if (temperature>0 && temperature <= 10){
@@ -13,12 +13,12 @@ if(temperature<=0){
 */
 //zavd2
 /*
-let a = 5
+let a = 4
 console.log(a % 2 == 0? "Число парне": "Число не парне")
 */
 //zavd3
 /*
-let day = "П'ятниця"
+let day = "Субота"
 switch(day){
     case "Понеділок":
         console.log("Перший день тижня");
@@ -47,11 +47,11 @@ switch(day){
 }
 */
 //zavd4
-/*
-let password = "admin123"
+
+let password = "admin12543"
 if(password == "admin123"){
     console.log("Доступ дозволено")
 } else {
     console.log("Доступ заборонено")
 }
-*/
+

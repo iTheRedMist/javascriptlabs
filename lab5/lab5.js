@@ -24,12 +24,12 @@ do {
 alert("Нарешті ви ввели позитивне число");
 */
 //zavd4
-/*
+
 let human = { name: "Ілля", age: 18, city: "Кривий Ріг"}
 for(let key in human){
     console.log(key, human[key])
 }
-*/
+
 //zavd5
 /*
 let arr = [1,2,3,4,5]

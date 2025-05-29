@@ -21,4 +21,3 @@ if(true){
 chislo = 5;
 console.log(chislo);
 */
-

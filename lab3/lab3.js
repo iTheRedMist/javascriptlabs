@@ -1,5 +1,5 @@
 //zavd1-3
-/*
+
 let a = "wassup";
 let b = 5;
 let c = true;
@@ -11,7 +11,7 @@ b = "pussaw";
 d = false;
 
 console.log(a + b);
-*/
+
 
 //zavd4
 /*
