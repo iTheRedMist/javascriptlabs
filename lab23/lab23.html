@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Видалення елементів списку</title>
+    <style>
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 8px;
+            margin: 4px 0;
+            background-color: lightblue;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border: 1px solid #000;
+            width: 200px;
+        }
+        button {
+            padding: 4px 8px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<h3>Список:</h3>
+<ul id="myList">
+    <li>Елемент 1 <button onclick="removeItem(this)">Видалити</button></li>
+    <li>Елемент 2 <button onclick="removeItem(this)">Видалити</button></li>
+    <li>Елемент 3 <button onclick="removeItem(this)">Видалити</button></li>
+    <li>Елемент 4 <button onclick="removeItem(this)">Видалити</button></li>
+    <li>Елемент 5 <button onclick="removeItem(this)">Видалити</button></li>
+</ul>
+
+
+<script src="lab23.js"></script>
+
+</body>
+</html>
